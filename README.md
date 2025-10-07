@@ -1,2 +1,3 @@
-# Info - visit my upcoming/new site [spicywriter.com](https://spicywriter.com)!
-Just gathering up my jailbreaks in a more organized fashion. For now it's going to be just the models I think are good for NSFW writing. 
+# Visit my newly launched site [spicywriter.com](https://spicywriter.com)!
+
+This repo is for gathering jailbreaks in a more organized fashion. For now it's going to be just the models I think are good for NSFW writing.
