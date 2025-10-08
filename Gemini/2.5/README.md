@@ -1,5 +1,5 @@
 ## Info
-Oh hey they have publicly sharable gems now. Here's Pyrite, I think this was made with... 3? I don't remember lol: https://gemini.google.com/gem/1jQUHU3fm2S6qXDIT-QjexCley3vetHLB
+Oct 7 Update: Oh hey they have publicly sharable gems now. Here's Pyrite, I think this was made with 3: https://gemini.google.com/gem/1jQUHU3fm2S6qXDIT-QjexCley3vetHLB
 
 ### How to use
 These all work as system prompt in API or AI Studio and save as a Gem in Gemini web/app as "Pyrite"
