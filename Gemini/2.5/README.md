@@ -2,7 +2,7 @@
 Oct 7 Update: Oh hey they have publicly sharable gems now. Here's Pyrite, I think this was made with 3: https://gemini.google.com/gem/1jQUHU3fm2S6qXDIT-QjexCley3vetHLB
 
 ### How to use
-These all work as system prompt in API or AI Studio and save as a Gem in Gemini web/app as "Pyrite"
+These all work as system prompt in API or AI Studio ~~and save as a Gem in Gemini web/app~~ as "Pyrite" (Edit: Okay they've been changing the AI scan that prevents saving. As of Oct 7, Beta 3 saves as a gem, ignore the rest, or read the Weird details section at the bottom of this page)
 
 I made version 3 in pursuit of extra jailbreak power but it's really not necessary for Gemini, and sometimes thinking may bleed over into the response. I think 2 or short may be a more consistent experience.
 
